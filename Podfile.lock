@@ -1,20 +1,14 @@
 PODS:
   - Alamofire (5.4.3)
-  - Bond (7.6.6):
-    - Differ (~> 1.4)
-    - ReactiveKit (~> 3.14)
-  - Differ (1.4.5)
   - IQKeyboardManagerSwift (6.5.6)
   - Kingfisher (5.15.8):
     - Kingfisher/Core (= 5.15.8)
   - Kingfisher/Core (5.15.8)
-  - ReactiveKit (3.17.4)
   - SnapKit (5.0.1)
   - SwiftLint (0.40.3)
 
 DEPENDENCIES:
   - Alamofire (~> 5.2)
-  - Bond (~> 7.6.6)
   - IQKeyboardManagerSwift
   - Kingfisher (~> 5.13)
   - SnapKit (~> 5.0.1)
@@ -23,24 +17,18 @@ DEPENDENCIES:
 SPEC REPOS:
   trunk:
     - Alamofire
-    - Bond
-    - Differ
     - IQKeyboardManagerSwift
     - Kingfisher
-    - ReactiveKit
     - SnapKit
     - SwiftLint
 
 SPEC CHECKSUMS:
   Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
-  Bond: 9e7d901cf4ed825b6004a93dd0a7f1c7479e2834
-  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
   IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
   Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
-  ReactiveKit: f9f9e079efa39312c597bf1508ef4810d111ce76
   SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
   SwiftLint: dfd554ff0dff17288ee574814ccdd5cea85d76f7
 
-PODFILE CHECKSUM: 54ebb9b174446986df9fa84b12a3465dcc3d50e5
+PODFILE CHECKSUM: 7309bfd93aae00eac9ccf2688ec66fd4ed9a38bd
 
 COCOAPODS: 1.10.1
